@@ -1,0 +1,13 @@
+{
+  "name": "dcontrollers",
+  "description": "Register all given controllers at the given app",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dnode/dcontrollers",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "src/lib.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/dcontrollers.git"
+  }
+}
