@@ -1,8 +1,14 @@
-[![Dependency Status](https://david-dm.org/dnode/dcontrollers.svg)](https://david-dm.org/dnode/dcontrollers)
-[![devDependency Status](https://david-dm.org/dnode/dcontrollers/dev-status.svg)](https://david-dm.org/dnode/dcontrollers#info=devDependencies)
+[![Dependency Status](https://david-dm.org/dnode/dcontrollers/status.svg)](https://david-dm.org/dnode/dcontrollers)
+[![devDependency Status](https://david-dm.org/dnode/dcontrollers/dev-status.svg)](https://david-dm.org/dnode/dcontrollers?type=dev)
 
-# Example
-```javascript
+# Installation
+
+`npm i --save dcontrollers`
+
+
+# Initialisation
+
+```
 require('dcontrollers')(app, [
   ['get', ['/', (req, res) => {
     res.send();

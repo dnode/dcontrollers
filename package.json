@@ -1,13 +1,26 @@
 {
   "name": "dcontrollers",
+  "version": "1.0.1",
   "description": "Register all given controllers at the given app",
-  "version": "1.0.0",
-  "homepage": "http://github.com/dnode/dcontrollers",
   "license": "MIT",
-  "readmeFilename": "README.md",
-  "main": "src/lib.js",
+  "homepage": "http://github.com/dnode/dcontrollers",
+  "author": {
+    "name": "Sharaal",
+    "email": "developer@dragonprojects.de",
+    "url": "http://dragonprojects.de"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/dnode/dcontrollers.git"
+  },
+  "readmeFilename": "README.md",
+  "main": "src/lib.js",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-dnode": "^1.1.1"
   }
 }
