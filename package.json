@@ -1,6 +1,6 @@
 {
   "name": "dcontrollers",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Register all given controllers at the given app",
   "license": "MIT",
   "homepage": "http://github.com/dnode/dcontrollers",
