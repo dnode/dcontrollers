@@ -10,7 +10,7 @@
 
 ```
 require('dcontrollers')(app, [
-  ['get', ['/', (req, res) => {
+  ['get', ['/', async (req, res) => {
     res.send();
   }]]
 ]);
