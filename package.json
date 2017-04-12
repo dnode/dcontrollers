@@ -14,5 +14,8 @@
     "url": "https://github.com/dnode/dcontrollers.git"
   },
   "readmeFilename": "README.md",
-  "main": "src/lib.js"
+  "main": "src/lib.js",
+  "dependencies": {
+    "dhandler": "^1.0.0"
+  }
 }
