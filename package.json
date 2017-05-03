@@ -1,6 +1,6 @@
 {
   "name": "dcontrollers",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Register all given controllers at the given app",
   "license": "MIT",
   "homepage": "http://github.com/dnode/dcontrollers",
@@ -16,6 +16,6 @@
   "readmeFilename": "README.md",
   "main": "src/lib.js",
   "dependencies": {
-    "dhandler": "^1.0.0"
+    "dhandler": "^1.0.1"
   }
 }
