@@ -15,7 +15,13 @@
   },
   "readmeFilename": "README.md",
   "main": "src/lib.js",
+  "scripts": {
+    "fmt": "dprettier"
+  },
   "dependencies": {
     "dhandler": "^1.0.1"
+  },
+  "devDependencies": {
+    "dprettier": "^1.1.0"
   }
 }
